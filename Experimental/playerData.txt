@@ -1,0 +1,12 @@
+Player 1Data: 
+Name: john
+Number of home runs: 4
+Number of hits: 25
+Player 2Data: 
+Name: fahad
+Number of home runs: 1
+Number of hits: 6
+Player 3Data: 
+Name: taha
+Number of home runs: 2
+Number of hits: 13

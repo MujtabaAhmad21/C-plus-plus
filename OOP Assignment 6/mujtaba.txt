@@ -1,0 +1,7 @@
+Student Name: Mujtaba
+Student ID: 230742
+Courses: 
+DLD: 3.5
+OOP: 4
+GPA: 3.75
+------------------------

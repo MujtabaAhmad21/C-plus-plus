@@ -1,0 +1,6 @@
+0  0 0
+5672 Toothpaste 20 200
+4555 FaceWash 30 300
+8745 Soap 40 400
+9012 ToothBrush 50 500
+3333 BodySpray 25 23.77
